@@ -1,73 +1,59 @@
+<h1 align="center">Hi 👋, I'm Rakshitha</h1>
+<h3 align="center">Aspiring DevOps Engineer 🚀</h3>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+---
 
-###
+### 👩‍💻 About Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
+- 🎓 I'm a student from India 🇮🇳  
+- 🔭 Currently learning **DevOps**  
+- 📚 Learning **AWS, CI/CD, Docker, Kubernetes**  
+- ⚡ Interested in automation and cloud technologies  
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR-USERNAME.YOUR-USERNAME"  />
-</div>
+### 🛠️ DevOps Tools & Technologies
 
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">
-I'm a student from India 🇮🇳<br><br>
-
-- 🔭 I’m currently focusing on DevOps Engineering  
-- 📚 I'm currently learning AWS, CI/CD, Docker, and Kubernetes  
-- ⚡ In my free time I practice coding and work on real-time projects  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+### ☁️ Cloud & Database
 
-###
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
-</div>
+---
 
-###
+### 🔥 GitHub Stats
 
-<h3 align="left">🔥 My Stats :</h3>
+<img src="https://streak-stats.demolab.com?user=Rakshitha0112&theme=dark" />
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rakshitha0112&theme=dark&border_radius=5" height="220"/>
-</div>
+### 📌 DevOps Projects
+
+- 🔹 CI/CD Pipeline using Jenkins  
+- 🔹 Deployment using Tomcat & Maven  
+- 🔹 Artifact Management with Nexus  
+- 🔹 AWS EC2 Hosting  
+
+---
+
+### 📫 Connect with me
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
