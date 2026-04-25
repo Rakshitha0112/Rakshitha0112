@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a student from India 🇮🇳  
+- 🎓 I'm a student  
 - 🔭 Currently learning **DevOps**  
 - 📚 Learning **AWS, CI/CD, Docker, Kubernetes**  
 - ⚡ Interested in automation and cloud technologies  
@@ -54,6 +54,6 @@
 
 ### 📫 Connect with me
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/rakshitha--c">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
