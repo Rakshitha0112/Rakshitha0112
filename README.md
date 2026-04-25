@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rakshitha</h1>
 <h3 align="center">Aspiring DevOps Engineer 🚀</h3>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rakshitha0112.Rakshitha0112&color=blue" />
+</div>
+
 ---
 
 ### 👩‍💻 About Me
@@ -39,7 +43,9 @@
 
 ### 🔥 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Rakshitha0112&theme=dark" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rakshitha0112&theme=dark&border_radius=5" height="220"/>
+</div>
 
 ---
 
@@ -54,6 +60,8 @@
 
 ### 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/rakshitha--c">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rakshitha--c">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</div>
