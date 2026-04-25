@@ -69,5 +69,5 @@ I'm a student from India 🇮🇳<br><br>
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark&border_radius=5" height="220"/>
+  <img src="https://streak-stats.demolab.com?user=Rakshitha0112&theme=dark&border_radius=5" height="220"/>
 </div>
