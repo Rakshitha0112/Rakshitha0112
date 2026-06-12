@@ -7,9 +7,7 @@
 
 ---
 
-### 👩‍💻 About Me
-
-- 🎓 I'm a student  
+### 👩‍💻 About Me 
 - 🔭 Currently learning **DevOps**  
 - 📚 Learning **AWS, CI/CD, Docker, Kubernetes**  
 - ⚡ Interested in automation and cloud technologies  
