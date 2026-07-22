@@ -52,10 +52,16 @@
 
 ### 📌 DevOps Projects
 
-- 🔹 CI/CD Pipeline using Jenkins  
-- 🔹 Deployment using Tomcat & Maven  
-- 🔹 Artifact Management with Nexus  
-- 🔹 AWS EC2 Hosting  
+- 🐳 **Containerized Application Deployment using Docker**
+  - Containerized a Java application using Docker and Docker Compose for consistent deployment.
+
+- 🚀 **Java Web Application Deployment using Tomcat with SonarQube Analysis & Nexus Repository**
+  - Built with Maven, performed code quality analysis using SonarQube, stored artifacts in Nexus, and deployed to Apache Tomcat.
+
+- ☁️ **Serverless Image Compression System using AWS Lambda & Amazon S3**
+  - Developed a serverless application to automatically compress uploaded images using AWS Lambda and Amazon S3.
+
+---
 
 ---
 
