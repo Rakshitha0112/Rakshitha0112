@@ -43,9 +43,7 @@
 
 ### 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rakshitha0112&theme=dark&border_radius=5" height="220"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=Rakshitha0112&theme=dark&border_radius=5" height="220"/>
 
 ---
 
