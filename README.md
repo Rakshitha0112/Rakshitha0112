@@ -43,7 +43,7 @@
 
 ### 🔥 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Rakshitha0112&theme=dark&border_radius=5" height="220"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakshitha0112&show_icons=true&theme=github_dark&hide_border=true"/>
 
 ---
 
