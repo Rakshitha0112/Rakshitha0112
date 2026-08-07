@@ -1,5 +1,17 @@
 
+<h1 align="center">Hi 👋, I'm Rakshitha</h1>
+<h3 align="center">Aspiring DevOps Engineer 🚀</h3>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rakshitha0112.Rakshitha0112&color=blue" />
+</div>
+
+---
+
+### 👩‍💻 About Me 
+- 🔭 Currently learning **DevOps**  
+- 📚 Learning **AWS, CI/CD, Docker, Kubernetes**  
+- ⚡ Interested in automation and cloud technologies  
 ---
 
 ### 🛠️ DevOps Tools & Technologies
