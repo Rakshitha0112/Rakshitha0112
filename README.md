@@ -134,7 +134,6 @@ I enjoy building automated deployment pipelines, working with cloud infrastructu
 ## 📊 GitHub Statistics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Rakshitha0112&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitha0112&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
@@ -148,6 +147,8 @@ I enjoy building automated deployment pipelines, working with cloud infrastructu
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Rakshitha0112&theme=tokyonight&hide_border=true" height="200"/>
+
+</div>
 
 </div>
 
