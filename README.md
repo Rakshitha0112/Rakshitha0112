@@ -206,13 +206,13 @@ I'm currently strengthening my knowledge in:
 * [x] AWS Fundamentals
 * [x] Docker
 * [x] Kubernetes Basics
+* [x] Terraform
+* [x] Ansible
+* [x] Prometheus & Grafana
+* [x] CI/CD Automation
 * [ ] Advanced Kubernetes
-* [ ] Terraform
-* [ ] Ansible
-* [ ] Prometheus & Grafana
-* [ ] Advanced AWS Architecture
-* [ ] CI/CD Automation
 * [ ] DevSecOps
+* [ ] Advanced AWS Architecture
 
 ---
 
