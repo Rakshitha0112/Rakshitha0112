@@ -21,6 +21,12 @@ I enjoy building automated deployment pipelines, working with cloud infrastructu
 
 ---
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rakshitha0112.Rakshitha0112&color=blue" />
+</div>
+
+
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
