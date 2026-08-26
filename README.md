@@ -7,7 +7,16 @@ I'm a 2026 B.E./B.Tech ECE graduate passionate about **DevOps, AWS Cloud, CI/CD,
 I enjoy building automated deployment pipelines, working with cloud infrastructure, containerizing applications, and learning modern DevOps practices.
 
 ---
+## 👩‍💻 About Me
 
+* 🎓 B.E./B.Tech — Electronics & Communication Engineering
+* 🚀 Aspiring **DevOps Engineer / AWS Cloud Engineer**
+* ☁️ Interested in **AWS Cloud & Infrastructure**
+* 🔄 Interested in **CI/CD & Automation**
+* 🐳 Working with **Docker & Kubernetes**
+* 🔧 Practicing **Jenkins, Git, Linux, Terraform & Ansible**
+* 📚 Continuously learning DevOps and Cloud technologies
+* 📍 Bengaluru, India
 
 
 ---
