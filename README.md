@@ -16,7 +16,7 @@ I enjoy building automated deployment pipelines, working with cloud infrastructu
 * 🐳 Working with **Docker & Kubernetes**
 * 🔧 Practicing **Jenkins, Git, Linux, Terraform & Ansible**
 * 📚 Continuously learning DevOps and Cloud technologies
-* 📍 Bengaluru, India
+* 📍 Bengaluru, Karnataka, India
 
 
 ---
