@@ -32,13 +32,7 @@ I enjoy building automated deployment pipelines, working with cloud infrastructu
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshitha0112&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
 
 ### ☁️ Cloud & Infrastructure
 
