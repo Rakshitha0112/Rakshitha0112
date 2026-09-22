@@ -11,7 +11,7 @@ I enjoy building automated deployment pipelines, working with cloud infrastructu
 
 * 🎓 B.E — Electronics & Communication Engineering.
 * 🚀 Aspiring **DevOps Engineer / AWS Cloud Engineer**.
-* ☁️ Interested in **AWS Cloud & Infrastructure**
+* ☁️ Interested in **AWS Cloud & Infrastructure**.
 * 🔄 Interested in **CI/CD & Automation**
 * 🐳 Working with **Docker & Kubernetes**
 * 🔧 Practicing **Jenkins, Git, Linux, Terraform & Ansible**
