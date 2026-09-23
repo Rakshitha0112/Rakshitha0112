@@ -146,6 +146,11 @@ I enjoy building automated deployment pipelines, working with cloud infrastructu
 
 ## 🔥 GitHub Streak
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Rakshitha0112&theme=tokyonight&hide_border=true" height="200"/>
+
+</div>
 
 
 ---
