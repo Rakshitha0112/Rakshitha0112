@@ -4,7 +4,7 @@
 
 I'm a 2026 B.E./B.Tech ECE graduate passionate about **DevOps, AWS Cloud, CI/CD, Containerization, Kubernetes, and Infrastructure Automation**
 
-I enjoy building automated deployment pipelines, working with cloud infrastructure, containerizing applications, and learning modern DevOps practices.
+I enjoy building automated deployment pipelines, working with cloud infrastructure, containerizing applications, and learning modern DevOps practices...
 
 ---
 ## 👩‍💻 About Me
